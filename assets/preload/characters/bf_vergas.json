@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-91
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-121,
+				8
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-121,
+				8
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISSUP00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-13
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISSRIGHT00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-91
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISSDOWN00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-17
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISSLEFT00",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bf_vergas",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "BFvergas",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		490,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

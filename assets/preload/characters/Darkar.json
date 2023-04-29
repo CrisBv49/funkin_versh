@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				-58
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Darka left00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-182
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Darka down00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				59
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Darka up00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Darka right00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-4
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Darka idle00",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Darka",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "D",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		199,
+		0
+	],
+	"camera_position": [
+		230,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

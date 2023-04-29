@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="Bf_Mic_Drop.png">
+<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+<!-- http://www.adobe.com/products/flash.html -->
+<SubTexture name="bf mic drop0000" x="0" y="0" width="495" height="645" frameX="-47" frameY="-16" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0001" x="0" y="0" width="495" height="645" frameX="-47" frameY="-16" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0002" x="495" y="0" width="499" height="655" frameX="-49" frameY="-6" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0003" x="495" y="0" width="499" height="655" frameX="-49" frameY="-6" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0004" x="994" y="0" width="504" height="661" frameX="-49" frameY="0" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0005" x="994" y="0" width="504" height="661" frameX="-49" frameY="0" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0006" x="1498" y="0" width="534" height="614" frameX="-15" frameY="-47" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0007" x="2032" y="0" width="541" height="635" frameX="-2" frameY="-39" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0008" x="0" y="661" width="543" height="642" frameX="0" frameY="-32" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0009" x="543" y="661" width="537" height="656" frameX="-6" frameY="-14" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0010" x="543" y="661" width="537" height="656" frameX="-6" frameY="-14" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0011" x="1080" y="661" width="535" height="655" frameX="-8" frameY="-15" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0012" x="1080" y="661" width="535" height="655" frameX="-8" frameY="-15" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0013" x="1615" y="661" width="535" height="655" frameX="-8" frameY="-15" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0014" x="1615" y="661" width="535" height="655" frameX="-8" frameY="-15" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0015" x="2150" y="661" width="535" height="655" frameX="-8" frameY="-15" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0016" x="0" y="1317" width="535" height="656" frameX="-8" frameY="-14" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0017" x="0" y="1317" width="535" height="656" frameX="-8" frameY="-14" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0018" x="535" y="1317" width="534" height="654" frameX="-8" frameY="-16" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0019" x="535" y="1317" width="534" height="654" frameX="-8" frameY="-16" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0020" x="1069" y="1317" width="534" height="654" frameX="-8" frameY="-16" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0021" x="1069" y="1317" width="534" height="654" frameX="-8" frameY="-16" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0022" x="1069" y="1317" width="534" height="654" frameX="-8" frameY="-16" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0023" x="1603" y="1317" width="529" height="654" frameX="-13" frameY="-16" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0024" x="2132" y="1317" width="511" height="654" frameX="-31" frameY="-16" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0025" x="0" y="1973" width="498" height="654" frameX="-47" frameY="-16" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0026" x="0" y="1973" width="498" height="654" frameX="-47" frameY="-16" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0027" x="498" y="1973" width="492" height="654" frameX="-47" frameY="-16" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0028" x="498" y="1973" width="492" height="654" frameX="-47" frameY="-16" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0029" x="990" y="1973" width="495" height="654" frameX="-47" frameY="-16" frameWidth="553" frameHeight="674"/>
+<SubTexture name="bf mic drop0030" x="990" y="1973" width="495" height="654" frameX="-47" frameY="-16" frameWidth="553" frameHeight="674"/>
+</TextureAtlas>

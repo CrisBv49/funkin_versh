@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-11,
+				-97
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "mecoboy down00"
+		},
+		{
+			"offsets": [
+				16,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "mecoboy idle00"
+		},
+		{
+			"offsets": [
+				130,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "mecoboy left00"
+		},
+		{
+			"offsets": [
+				58,
+				39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "mecoboy up00"
+		},
+		{
+			"offsets": [
+				-21,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "mecoboy right00"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mecoboy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "meco",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		360,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

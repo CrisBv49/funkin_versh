@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				-54
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Darka angry  left00"
+		},
+		{
+			"offsets": [
+				10,
+				-142
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Darka angry  down00"
+		},
+		{
+			"offsets": [
+				59,
+				59
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Darka angry up00"
+		},
+		{
+			"offsets": [
+				42,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Darka angry right00"
+		},
+		{
+			"offsets": [
+				9,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Darka angry  idle00"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Darka angry",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "D2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		199,
+		0
+	],
+	"camera_position": [
+		230,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

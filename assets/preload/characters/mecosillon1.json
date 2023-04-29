@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mecoboy sillon left00"
+		},
+		{
+			"offsets": [
+				-6,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mecoboy sillon down00"
+		},
+		{
+			"offsets": [
+				1,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mecoboy sillon up00"
+		},
+		{
+			"offsets": [
+				-8,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mecoboy sillon right00"
+		},
+		{
+			"offsets": [
+				8,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mecoboy sillon idle00"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mecoboy sillon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "meco3",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		155,
+		0
+	],
+	"camera_position": [
+		-370,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

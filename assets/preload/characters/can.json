@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				18,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "darka cangrejo NOTE down00"
+		},
+		{
+			"offsets": [
+				22,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "darka cangrejo NOTE left00"
+		},
+		{
+			"offsets": [
+				-76,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "darka cangrejo NOTE right00"
+		},
+		{
+			"offsets": [
+				12,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "darka cangrejo idle00"
+		},
+		{
+			"offsets": [
+				240,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "darka cangrejo down MISS00"
+		},
+		{
+			"offsets": [
+				243,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "darka cangrejo left MISS00"
+		},
+		{
+			"offsets": [
+				249,
+				22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "darka cangrejo up MISS00"
+		},
+		{
+			"offsets": [
+				239,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "darka cangrejo right MISS00"
+		},
+		{
+			"offsets": [
+				18,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "darka cangrejo NOTE up00"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/darka_cangrejo",
+	"position": [
+		350,
+		100
+	],
+	"healthicon": "can",
+	"flip_x": false,
+	"healthbar_colors": [
+		191,
+		64,
+		28
+	],
+	"camera_position": [
+		-620,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

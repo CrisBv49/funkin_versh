@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mecoboy sillon.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mecoboy sillon down0000" x="0" y="0" width="330" height="585" frameX="-4" frameY="-3" frameWidth="339" frameHeight="588"/>
+	<SubTexture name="mecoboy sillon down0001" x="0" y="0" width="330" height="585" frameX="-4" frameY="-3" frameWidth="339" frameHeight="588"/>
+	<SubTexture name="mecoboy sillon down0002" x="330" y="0" width="339" height="588"/>
+	<SubTexture name="mecoboy sillon down0003" x="330" y="0" width="339" height="588"/>
+	<SubTexture name="mecoboy sillon down0004" x="330" y="0" width="339" height="588"/>
+	<SubTexture name="mecoboy sillon down0005" x="330" y="0" width="339" height="588"/>
+	<SubTexture name="mecoboy sillon down0006" x="330" y="0" width="339" height="588"/>
+	<SubTexture name="mecoboy sillon down0007" x="330" y="0" width="339" height="588"/>
+	<SubTexture name="mecoboy sillon down0008" x="330" y="0" width="339" height="588"/>
+	<SubTexture name="mecoboy sillon down0009" x="330" y="0" width="339" height="588"/>
+	<SubTexture name="mecoboy sillon down0010" x="330" y="0" width="339" height="588"/>
+	<SubTexture name="mecoboy sillon down0011" x="330" y="0" width="339" height="588"/>
+	<SubTexture name="mecoboy sillon down0012" x="330" y="0" width="339" height="588"/>
+	<SubTexture name="mecoboy sillon down0013" x="330" y="0" width="339" height="588"/>
+	<SubTexture name="mecoboy sillon down0014" x="330" y="0" width="339" height="588"/>
+	<SubTexture name="mecoboy sillon idle0000" x="669" y="0" width="317" height="592" frameX="0" frameY="-6" frameWidth="319" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon idle0001" x="669" y="0" width="317" height="592" frameX="0" frameY="-6" frameWidth="319" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon idle0002" x="986" y="0" width="315" height="594" frameX="-2" frameY="-4" frameWidth="319" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon idle0003" x="986" y="0" width="315" height="594" frameX="-2" frameY="-4" frameWidth="319" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon idle0004" x="1301" y="0" width="314" height="596" frameX="-4" frameY="-2" frameWidth="319" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon idle0005" x="1301" y="0" width="314" height="596" frameX="-4" frameY="-2" frameWidth="319" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon idle0006" x="1615" y="0" width="312" height="597" frameX="-7" frameY="-1" frameWidth="319" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon idle0007" x="1615" y="0" width="312" height="597" frameX="-7" frameY="-1" frameWidth="319" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon idle0008" x="0" y="597" width="310" height="598" frameX="-9" frameY="0" frameWidth="319" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon idle0009" x="0" y="597" width="310" height="598" frameX="-9" frameY="0" frameWidth="319" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon idle0010" x="0" y="597" width="310" height="598" frameX="-9" frameY="0" frameWidth="319" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon idle0011" x="0" y="597" width="310" height="598" frameX="-9" frameY="0" frameWidth="319" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon idle0012" x="0" y="597" width="310" height="598" frameX="-9" frameY="0" frameWidth="319" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon idle0013" x="0" y="597" width="310" height="598" frameX="-9" frameY="0" frameWidth="319" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon left0000" x="310" y="597" width="289" height="597" frameX="0" frameY="-1" frameWidth="296" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon left0001" x="310" y="597" width="289" height="597" frameX="0" frameY="-1" frameWidth="296" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon left0002" x="599" y="597" width="286" height="598" frameX="-10" frameY="0" frameWidth="296" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon left0003" x="599" y="597" width="286" height="598" frameX="-10" frameY="0" frameWidth="296" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon left0004" x="599" y="597" width="286" height="598" frameX="-10" frameY="0" frameWidth="296" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon left0005" x="599" y="597" width="286" height="598" frameX="-10" frameY="0" frameWidth="296" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon left0006" x="599" y="597" width="286" height="598" frameX="-10" frameY="0" frameWidth="296" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon left0007" x="599" y="597" width="286" height="598" frameX="-10" frameY="0" frameWidth="296" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon left0008" x="599" y="597" width="286" height="598" frameX="-10" frameY="0" frameWidth="296" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon left0009" x="599" y="597" width="286" height="598" frameX="-10" frameY="0" frameWidth="296" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon left0010" x="599" y="597" width="286" height="598" frameX="-10" frameY="0" frameWidth="296" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon left0011" x="599" y="597" width="286" height="598" frameX="-10" frameY="0" frameWidth="296" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon left0012" x="599" y="597" width="286" height="598" frameX="-10" frameY="0" frameWidth="296" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon left0013" x="599" y="597" width="286" height="598" frameX="-10" frameY="0" frameWidth="296" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon left0014" x="599" y="597" width="286" height="598" frameX="-10" frameY="0" frameWidth="296" frameHeight="598"/>
+	<SubTexture name="mecoboy sillon right0000" x="885" y="597" width="414" height="609" frameX="-7" frameY="0" frameWidth="421" frameHeight="609"/>
+	<SubTexture name="mecoboy sillon right0001" x="885" y="597" width="414" height="609" frameX="-7" frameY="0" frameWidth="421" frameHeight="609"/>
+	<SubTexture name="mecoboy sillon right0002" x="1299" y="597" width="415" height="609" frameX="0" frameY="0" frameWidth="421" frameHeight="609"/>
+	<SubTexture name="mecoboy sillon right0003" x="1299" y="597" width="415" height="609" frameX="0" frameY="0" frameWidth="421" frameHeight="609"/>
+	<SubTexture name="mecoboy sillon right0004" x="1299" y="597" width="415" height="609" frameX="0" frameY="0" frameWidth="421" frameHeight="609"/>
+	<SubTexture name="mecoboy sillon right0005" x="1299" y="597" width="415" height="609" frameX="0" frameY="0" frameWidth="421" frameHeight="609"/>
+	<SubTexture name="mecoboy sillon right0006" x="1299" y="597" width="415" height="609" frameX="0" frameY="0" frameWidth="421" frameHeight="609"/>
+	<SubTexture name="mecoboy sillon right0007" x="1299" y="597" width="415" height="609" frameX="0" frameY="0" frameWidth="421" frameHeight="609"/>
+	<SubTexture name="mecoboy sillon right0008" x="1299" y="597" width="415" height="609" frameX="0" frameY="0" frameWidth="421" frameHeight="609"/>
+	<SubTexture name="mecoboy sillon right0009" x="1299" y="597" width="415" height="609" frameX="0" frameY="0" frameWidth="421" frameHeight="609"/>
+	<SubTexture name="mecoboy sillon right0010" x="1299" y="597" width="415" height="609" frameX="0" frameY="0" frameWidth="421" frameHeight="609"/>
+	<SubTexture name="mecoboy sillon right0011" x="1299" y="597" width="415" height="609" frameX="0" frameY="0" frameWidth="421" frameHeight="609"/>
+	<SubTexture name="mecoboy sillon right0012" x="1299" y="597" width="415" height="609" frameX="0" frameY="0" frameWidth="421" frameHeight="609"/>
+	<SubTexture name="mecoboy sillon right0013" x="1299" y="597" width="415" height="609" frameX="0" frameY="0" frameWidth="421" frameHeight="609"/>
+	<SubTexture name="mecoboy sillon right0014" x="1299" y="597" width="415" height="609" frameX="0" frameY="0" frameWidth="421" frameHeight="609"/>
+	<SubTexture name="mecoboy sillon up0000" x="0" y="1206" width="403" height="603" frameX="0" frameY="0" frameWidth="405" frameHeight="603"/>
+	<SubTexture name="mecoboy sillon up0001" x="0" y="1206" width="403" height="603" frameX="0" frameY="0" frameWidth="405" frameHeight="603"/>
+	<SubTexture name="mecoboy sillon up0002" x="403" y="1206" width="398" height="598" frameX="-7" frameY="-5" frameWidth="405" frameHeight="603"/>
+	<SubTexture name="mecoboy sillon up0003" x="403" y="1206" width="398" height="598" frameX="-7" frameY="-5" frameWidth="405" frameHeight="603"/>
+	<SubTexture name="mecoboy sillon up0004" x="403" y="1206" width="398" height="598" frameX="-7" frameY="-5" frameWidth="405" frameHeight="603"/>
+	<SubTexture name="mecoboy sillon up0005" x="403" y="1206" width="398" height="598" frameX="-7" frameY="-5" frameWidth="405" frameHeight="603"/>
+	<SubTexture name="mecoboy sillon up0006" x="403" y="1206" width="398" height="598" frameX="-7" frameY="-5" frameWidth="405" frameHeight="603"/>
+	<SubTexture name="mecoboy sillon up0007" x="403" y="1206" width="398" height="598" frameX="-7" frameY="-5" frameWidth="405" frameHeight="603"/>
+	<SubTexture name="mecoboy sillon up0008" x="403" y="1206" width="398" height="598" frameX="-7" frameY="-5" frameWidth="405" frameHeight="603"/>
+	<SubTexture name="mecoboy sillon up0009" x="403" y="1206" width="398" height="598" frameX="-7" frameY="-5" frameWidth="405" frameHeight="603"/>
+	<SubTexture name="mecoboy sillon up0010" x="403" y="1206" width="398" height="598" frameX="-7" frameY="-5" frameWidth="405" frameHeight="603"/>
+	<SubTexture name="mecoboy sillon up0011" x="403" y="1206" width="398" height="598" frameX="-7" frameY="-5" frameWidth="405" frameHeight="603"/>
+	<SubTexture name="mecoboy sillon up0012" x="403" y="1206" width="398" height="598" frameX="-7" frameY="-5" frameWidth="405" frameHeight="603"/>
+	<SubTexture name="mecoboy sillon up0013" x="403" y="1206" width="398" height="598" frameX="-7" frameY="-5" frameWidth="405" frameHeight="603"/>
+	<SubTexture name="mecoboy sillon up0014" x="403" y="1206" width="398" height="598" frameX="-7" frameY="-5" frameWidth="405" frameHeight="603"/>
+</TextureAtlas>

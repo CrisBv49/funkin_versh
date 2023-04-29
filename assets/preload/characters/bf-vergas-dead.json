@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				155
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "comfirm00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				329,
+				316
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "ded00",
+			"indices": []
+		},
+		{
+			"offsets": [
+				331,
+				315
+			],
+			"loop": true,
+			"fps": 7,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "loop00"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Bf_Calacas",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		490,
+		-320
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Darka.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Darka down0000" x="0" y="0" width="409" height="441" frameX="0" frameY="-1" frameWidth="409" frameHeight="442"/>
+	<SubTexture name="Darka down0001" x="0" y="0" width="409" height="441" frameX="0" frameY="-1" frameWidth="409" frameHeight="442"/>
+	<SubTexture name="Darka down0002" x="409" y="0" width="401" height="442" frameX="-2" frameY="0" frameWidth="409" frameHeight="442"/>
+	<SubTexture name="Darka down0003" x="409" y="0" width="401" height="442" frameX="-2" frameY="0" frameWidth="409" frameHeight="442"/>
+	<SubTexture name="Darka down0004" x="409" y="0" width="401" height="442" frameX="-2" frameY="0" frameWidth="409" frameHeight="442"/>
+	<SubTexture name="Darka down0005" x="409" y="0" width="401" height="442" frameX="-2" frameY="0" frameWidth="409" frameHeight="442"/>
+	<SubTexture name="Darka down0006" x="409" y="0" width="401" height="442" frameX="-2" frameY="0" frameWidth="409" frameHeight="442"/>
+	<SubTexture name="Darka down0007" x="409" y="0" width="401" height="442" frameX="-2" frameY="0" frameWidth="409" frameHeight="442"/>
+	<SubTexture name="Darka down0008" x="409" y="0" width="401" height="442" frameX="-2" frameY="0" frameWidth="409" frameHeight="442"/>
+	<SubTexture name="Darka down0009" x="409" y="0" width="401" height="442" frameX="-2" frameY="0" frameWidth="409" frameHeight="442"/>
+	<SubTexture name="Darka down0010" x="409" y="0" width="401" height="442" frameX="-2" frameY="0" frameWidth="409" frameHeight="442"/>
+	<SubTexture name="Darka down0011" x="409" y="0" width="401" height="442" frameX="-2" frameY="0" frameWidth="409" frameHeight="442"/>
+	<SubTexture name="Darka down0012" x="409" y="0" width="401" height="442" frameX="-2" frameY="0" frameWidth="409" frameHeight="442"/>
+	<SubTexture name="Darka down0013" x="409" y="0" width="401" height="442" frameX="-2" frameY="0" frameWidth="409" frameHeight="442"/>
+	<SubTexture name="Darka down0014" x="409" y="0" width="401" height="442" frameX="-2" frameY="0" frameWidth="409" frameHeight="442"/>
+	<SubTexture name="Darka left0000" x="810" y="0" width="425" height="545" frameX="0" frameY="0" frameWidth="426" frameHeight="545"/>
+	<SubTexture name="Darka left0001" x="810" y="0" width="425" height="545" frameX="0" frameY="0" frameWidth="426" frameHeight="545"/>
+	<SubTexture name="Darka left0002" x="1235" y="0" width="421" height="545" frameX="-5" frameY="0" frameWidth="426" frameHeight="545"/>
+	<SubTexture name="Darka left0003" x="1235" y="0" width="421" height="545" frameX="-5" frameY="0" frameWidth="426" frameHeight="545"/>
+	<SubTexture name="Darka left0004" x="1235" y="0" width="421" height="545" frameX="-5" frameY="0" frameWidth="426" frameHeight="545"/>
+	<SubTexture name="Darka left0005" x="1235" y="0" width="421" height="545" frameX="-5" frameY="0" frameWidth="426" frameHeight="545"/>
+	<SubTexture name="Darka left0006" x="1235" y="0" width="421" height="545" frameX="-5" frameY="0" frameWidth="426" frameHeight="545"/>
+	<SubTexture name="Darka left0007" x="1235" y="0" width="421" height="545" frameX="-5" frameY="0" frameWidth="426" frameHeight="545"/>
+	<SubTexture name="Darka left0008" x="1235" y="0" width="421" height="545" frameX="-5" frameY="0" frameWidth="426" frameHeight="545"/>
+	<SubTexture name="Darka left0009" x="1235" y="0" width="421" height="545" frameX="-5" frameY="0" frameWidth="426" frameHeight="545"/>
+	<SubTexture name="Darka left0010" x="1235" y="0" width="421" height="545" frameX="-5" frameY="0" frameWidth="426" frameHeight="545"/>
+	<SubTexture name="Darka left0011" x="1235" y="0" width="421" height="545" frameX="-5" frameY="0" frameWidth="426" frameHeight="545"/>
+	<SubTexture name="Darka left0012" x="1235" y="0" width="421" height="545" frameX="-5" frameY="0" frameWidth="426" frameHeight="545"/>
+	<SubTexture name="Darka left0013" x="1235" y="0" width="421" height="545" frameX="-5" frameY="0" frameWidth="426" frameHeight="545"/>
+	<SubTexture name="Darka left0014" x="1235" y="0" width="421" height="545" frameX="-5" frameY="0" frameWidth="426" frameHeight="545"/>
+	<SubTexture name="Darka right0000" x="0" y="545" width="524" height="581"/>
+	<SubTexture name="Darka right0001" x="0" y="545" width="524" height="581"/>
+	<SubTexture name="Darka right0002" x="524" y="545" width="520" height="581" frameX="0" frameY="0" frameWidth="524" frameHeight="581"/>
+	<SubTexture name="Darka right0003" x="524" y="545" width="520" height="581" frameX="0" frameY="0" frameWidth="524" frameHeight="581"/>
+	<SubTexture name="Darka right0004" x="524" y="545" width="520" height="581" frameX="0" frameY="0" frameWidth="524" frameHeight="581"/>
+	<SubTexture name="Darka right0005" x="524" y="545" width="520" height="581" frameX="0" frameY="0" frameWidth="524" frameHeight="581"/>
+	<SubTexture name="Darka right0006" x="524" y="545" width="520" height="581" frameX="0" frameY="0" frameWidth="524" frameHeight="581"/>
+	<SubTexture name="Darka right0007" x="524" y="545" width="520" height="581" frameX="0" frameY="0" frameWidth="524" frameHeight="581"/>
+	<SubTexture name="Darka right0008" x="524" y="545" width="520" height="581" frameX="0" frameY="0" frameWidth="524" frameHeight="581"/>
+	<SubTexture name="Darka right0009" x="524" y="545" width="520" height="581" frameX="0" frameY="0" frameWidth="524" frameHeight="581"/>
+	<SubTexture name="Darka right0010" x="524" y="545" width="520" height="581" frameX="0" frameY="0" frameWidth="524" frameHeight="581"/>
+	<SubTexture name="Darka right0011" x="524" y="545" width="520" height="581" frameX="0" frameY="0" frameWidth="524" frameHeight="581"/>
+	<SubTexture name="Darka right0012" x="524" y="545" width="520" height="581" frameX="0" frameY="0" frameWidth="524" frameHeight="581"/>
+	<SubTexture name="Darka right0013" x="524" y="545" width="520" height="581" frameX="0" frameY="0" frameWidth="524" frameHeight="581"/>
+	<SubTexture name="Darka right0014" x="524" y="545" width="520" height="581" frameX="0" frameY="0" frameWidth="524" frameHeight="581"/>
+	<SubTexture name="Darka up0000" x="1044" y="545" width="408" height="639" frameX="-1" frameY="0" frameWidth="409" frameHeight="639"/>
+	<SubTexture name="Darka up0001" x="1044" y="545" width="408" height="639" frameX="-1" frameY="0" frameWidth="409" frameHeight="639"/>
+	<SubTexture name="Darka up0002" x="1452" y="545" width="406" height="635" frameX="0" frameY="-4" frameWidth="409" frameHeight="639"/>
+	<SubTexture name="Darka up0003" x="1452" y="545" width="406" height="635" frameX="0" frameY="-4" frameWidth="409" frameHeight="639"/>
+	<SubTexture name="Darka up0004" x="1452" y="545" width="406" height="635" frameX="0" frameY="-4" frameWidth="409" frameHeight="639"/>
+	<SubTexture name="Darka up0005" x="1452" y="545" width="406" height="635" frameX="0" frameY="-4" frameWidth="409" frameHeight="639"/>
+	<SubTexture name="Darka up0006" x="1452" y="545" width="406" height="635" frameX="0" frameY="-4" frameWidth="409" frameHeight="639"/>
+	<SubTexture name="Darka up0007" x="1452" y="545" width="406" height="635" frameX="0" frameY="-4" frameWidth="409" frameHeight="639"/>
+	<SubTexture name="Darka up0008" x="1452" y="545" width="406" height="635" frameX="0" frameY="-4" frameWidth="409" frameHeight="639"/>
+	<SubTexture name="Darka up0009" x="1452" y="545" width="406" height="635" frameX="0" frameY="-4" frameWidth="409" frameHeight="639"/>
+	<SubTexture name="Darka up0010" x="1452" y="545" width="406" height="635" frameX="0" frameY="-4" frameWidth="409" frameHeight="639"/>
+	<SubTexture name="Darka up0011" x="1452" y="545" width="406" height="635" frameX="0" frameY="-4" frameWidth="409" frameHeight="639"/>
+	<SubTexture name="Darka up0012" x="1452" y="545" width="406" height="635" frameX="0" frameY="-4" frameWidth="409" frameHeight="639"/>
+	<SubTexture name="Darka up0013" x="1452" y="545" width="406" height="635" frameX="0" frameY="-4" frameWidth="409" frameHeight="639"/>
+	<SubTexture name="Darka up0014" x="1452" y="545" width="406" height="635" frameX="0" frameY="-4" frameWidth="409" frameHeight="639"/>
+	<SubTexture name="Darka idle0000" x="0" y="1184" width="343" height="573" frameX="-15" frameY="-5" frameWidth="361" frameHeight="578"/>
+	<SubTexture name="Darka idle0001" x="0" y="1184" width="343" height="573" frameX="-15" frameY="-5" frameWidth="361" frameHeight="578"/>
+	<SubTexture name="Darka idle0002" x="343" y="1184" width="351" height="575" frameX="-10" frameY="-3" frameWidth="361" frameHeight="578"/>
+	<SubTexture name="Darka idle0003" x="343" y="1184" width="351" height="575" frameX="-10" frameY="-3" frameWidth="361" frameHeight="578"/>
+	<SubTexture name="Darka idle0004" x="694" y="1184" width="350" height="577" frameX="-7" frameY="-1" frameWidth="361" frameHeight="578"/>
+	<SubTexture name="Darka idle0005" x="694" y="1184" width="350" height="577" frameX="-7" frameY="-1" frameWidth="361" frameHeight="578"/>
+	<SubTexture name="Darka idle0006" x="1044" y="1184" width="351" height="578" frameX="-4" frameY="0" frameWidth="361" frameHeight="578"/>
+	<SubTexture name="Darka idle0007" x="1044" y="1184" width="351" height="578" frameX="-4" frameY="0" frameWidth="361" frameHeight="578"/>
+	<SubTexture name="Darka idle0008" x="1395" y="1184" width="355" height="578" frameX="0" frameY="0" frameWidth="361" frameHeight="578"/>
+	<SubTexture name="Darka idle0009" x="1395" y="1184" width="355" height="578" frameX="0" frameY="0" frameWidth="361" frameHeight="578"/>
+	<SubTexture name="Darka idle0010" x="1395" y="1184" width="355" height="578" frameX="0" frameY="0" frameWidth="361" frameHeight="578"/>
+	<SubTexture name="Darka idle0011" x="1395" y="1184" width="355" height="578" frameX="0" frameY="0" frameWidth="361" frameHeight="578"/>
+	<SubTexture name="Darka idle0012" x="1395" y="1184" width="355" height="578" frameX="0" frameY="0" frameWidth="361" frameHeight="578"/>
+	<SubTexture name="Darka idle0013" x="1395" y="1184" width="355" height="578" frameX="0" frameY="0" frameWidth="361" frameHeight="578"/>
+</TextureAtlas>

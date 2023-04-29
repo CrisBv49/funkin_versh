@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mecoboy.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mecoboy down0000" x="0" y="0" width="295" height="471" frameX="0" frameY="-5" frameWidth="295" frameHeight="476"/>
+	<SubTexture name="mecoboy down0001" x="0" y="0" width="295" height="471" frameX="0" frameY="-5" frameWidth="295" frameHeight="476"/>
+	<SubTexture name="mecoboy down0002" x="295" y="0" width="277" height="476" frameX="-7" frameY="0" frameWidth="295" frameHeight="476"/>
+	<SubTexture name="mecoboy down0003" x="295" y="0" width="277" height="476" frameX="-7" frameY="0" frameWidth="295" frameHeight="476"/>
+	<SubTexture name="mecoboy down0004" x="295" y="0" width="277" height="476" frameX="-7" frameY="0" frameWidth="295" frameHeight="476"/>
+	<SubTexture name="mecoboy down0005" x="295" y="0" width="277" height="476" frameX="-7" frameY="0" frameWidth="295" frameHeight="476"/>
+	<SubTexture name="mecoboy down0006" x="295" y="0" width="277" height="476" frameX="-7" frameY="0" frameWidth="295" frameHeight="476"/>
+	<SubTexture name="mecoboy down0007" x="295" y="0" width="277" height="476" frameX="-7" frameY="0" frameWidth="295" frameHeight="476"/>
+	<SubTexture name="mecoboy down0008" x="295" y="0" width="277" height="476" frameX="-7" frameY="0" frameWidth="295" frameHeight="476"/>
+	<SubTexture name="mecoboy down0009" x="295" y="0" width="277" height="476" frameX="-7" frameY="0" frameWidth="295" frameHeight="476"/>
+	<SubTexture name="mecoboy down0010" x="295" y="0" width="277" height="476" frameX="-7" frameY="0" frameWidth="295" frameHeight="476"/>
+	<SubTexture name="mecoboy down0011" x="295" y="0" width="277" height="476" frameX="-7" frameY="0" frameWidth="295" frameHeight="476"/>
+	<SubTexture name="mecoboy down0012" x="295" y="0" width="277" height="476" frameX="-7" frameY="0" frameWidth="295" frameHeight="476"/>
+	<SubTexture name="mecoboy down0013" x="295" y="0" width="277" height="476" frameX="-7" frameY="0" frameWidth="295" frameHeight="476"/>
+	<SubTexture name="mecoboy down0014" x="295" y="0" width="277" height="476" frameX="-7" frameY="0" frameWidth="295" frameHeight="476"/>
+	<SubTexture name="mecoboy idle0000" x="572" y="0" width="280" height="578" frameX="-11" frameY="-9" frameWidth="291" frameHeight="587"/>
+	<SubTexture name="mecoboy idle0001" x="572" y="0" width="280" height="578" frameX="-11" frameY="-9" frameWidth="291" frameHeight="587"/>
+	<SubTexture name="mecoboy idle0002" x="852" y="0" width="279" height="583" frameX="-9" frameY="-4" frameWidth="291" frameHeight="587"/>
+	<SubTexture name="mecoboy idle0003" x="852" y="0" width="279" height="583" frameX="-9" frameY="-4" frameWidth="291" frameHeight="587"/>
+	<SubTexture name="mecoboy idle0004" x="1131" y="0" width="280" height="584" frameX="-5" frameY="-3" frameWidth="291" frameHeight="587"/>
+	<SubTexture name="mecoboy idle0005" x="1131" y="0" width="280" height="584" frameX="-5" frameY="-3" frameWidth="291" frameHeight="587"/>
+	<SubTexture name="mecoboy idle0006" x="1411" y="0" width="283" height="586" frameX="-2" frameY="-1" frameWidth="291" frameHeight="587"/>
+	<SubTexture name="mecoboy idle0007" x="1411" y="0" width="283" height="586" frameX="-2" frameY="-1" frameWidth="291" frameHeight="587"/>
+	<SubTexture name="mecoboy idle0008" x="1694" y="0" width="285" height="587" frameX="0" frameY="0" frameWidth="291" frameHeight="587"/>
+	<SubTexture name="mecoboy idle0009" x="1694" y="0" width="285" height="587" frameX="0" frameY="0" frameWidth="291" frameHeight="587"/>
+	<SubTexture name="mecoboy idle0010" x="1694" y="0" width="285" height="587" frameX="0" frameY="0" frameWidth="291" frameHeight="587"/>
+	<SubTexture name="mecoboy idle0011" x="1694" y="0" width="285" height="587" frameX="0" frameY="0" frameWidth="291" frameHeight="587"/>
+	<SubTexture name="mecoboy idle0012" x="1694" y="0" width="285" height="587" frameX="0" frameY="0" frameWidth="291" frameHeight="587"/>
+	<SubTexture name="mecoboy idle0013" x="1694" y="0" width="285" height="587" frameX="0" frameY="0" frameWidth="291" frameHeight="587"/>
+	<SubTexture name="mecoboy left0000" x="0" y="587" width="421" height="575" frameX="0" frameY="0" frameWidth="422" frameHeight="575"/>
+	<SubTexture name="mecoboy left0001" x="0" y="587" width="421" height="575" frameX="0" frameY="0" frameWidth="422" frameHeight="575"/>
+	<SubTexture name="mecoboy left0002" x="421" y="587" width="411" height="575" frameX="-11" frameY="0" frameWidth="422" frameHeight="575"/>
+	<SubTexture name="mecoboy left0003" x="421" y="587" width="411" height="575" frameX="-11" frameY="0" frameWidth="422" frameHeight="575"/>
+	<SubTexture name="mecoboy left0004" x="421" y="587" width="411" height="575" frameX="-11" frameY="0" frameWidth="422" frameHeight="575"/>
+	<SubTexture name="mecoboy left0005" x="421" y="587" width="411" height="575" frameX="-11" frameY="0" frameWidth="422" frameHeight="575"/>
+	<SubTexture name="mecoboy left0006" x="421" y="587" width="411" height="575" frameX="-11" frameY="0" frameWidth="422" frameHeight="575"/>
+	<SubTexture name="mecoboy left0007" x="421" y="587" width="411" height="575" frameX="-11" frameY="0" frameWidth="422" frameHeight="575"/>
+	<SubTexture name="mecoboy left0008" x="421" y="587" width="411" height="575" frameX="-11" frameY="0" frameWidth="422" frameHeight="575"/>
+	<SubTexture name="mecoboy left0009" x="421" y="587" width="411" height="575" frameX="-11" frameY="0" frameWidth="422" frameHeight="575"/>
+	<SubTexture name="mecoboy left0010" x="421" y="587" width="411" height="575" frameX="-11" frameY="0" frameWidth="422" frameHeight="575"/>
+	<SubTexture name="mecoboy left0011" x="421" y="587" width="411" height="575" frameX="-11" frameY="0" frameWidth="422" frameHeight="575"/>
+	<SubTexture name="mecoboy left0012" x="421" y="587" width="411" height="575" frameX="-11" frameY="0" frameWidth="422" frameHeight="575"/>
+	<SubTexture name="mecoboy left0013" x="421" y="587" width="411" height="575" frameX="-11" frameY="0" frameWidth="422" frameHeight="575"/>
+	<SubTexture name="mecoboy left0014" x="421" y="587" width="411" height="575" frameX="-11" frameY="0" frameWidth="422" frameHeight="575"/>
+	<SubTexture name="mecoboy right0000" x="832" y="587" width="387" height="580"/>
+	<SubTexture name="mecoboy right0001" x="832" y="587" width="387" height="580"/>
+	<SubTexture name="mecoboy right0002" x="1219" y="587" width="379" height="580" frameX="-1" frameY="0" frameWidth="387" frameHeight="580"/>
+	<SubTexture name="mecoboy right0003" x="1219" y="587" width="379" height="580" frameX="-1" frameY="0" frameWidth="387" frameHeight="580"/>
+	<SubTexture name="mecoboy right0004" x="1219" y="587" width="379" height="580" frameX="-1" frameY="0" frameWidth="387" frameHeight="580"/>
+	<SubTexture name="mecoboy right0005" x="1219" y="587" width="379" height="580" frameX="-1" frameY="0" frameWidth="387" frameHeight="580"/>
+	<SubTexture name="mecoboy right0006" x="1219" y="587" width="379" height="580" frameX="-1" frameY="0" frameWidth="387" frameHeight="580"/>
+	<SubTexture name="mecoboy right0007" x="1219" y="587" width="379" height="580" frameX="-1" frameY="0" frameWidth="387" frameHeight="580"/>
+	<SubTexture name="mecoboy right0008" x="1219" y="587" width="379" height="580" frameX="-1" frameY="0" frameWidth="387" frameHeight="580"/>
+	<SubTexture name="mecoboy right0009" x="1219" y="587" width="379" height="580" frameX="-1" frameY="0" frameWidth="387" frameHeight="580"/>
+	<SubTexture name="mecoboy right0010" x="1219" y="587" width="379" height="580" frameX="-1" frameY="0" frameWidth="387" frameHeight="580"/>
+	<SubTexture name="mecoboy right0011" x="1219" y="587" width="379" height="580" frameX="-1" frameY="0" frameWidth="387" frameHeight="580"/>
+	<SubTexture name="mecoboy right0012" x="1219" y="587" width="379" height="580" frameX="-1" frameY="0" frameWidth="387" frameHeight="580"/>
+	<SubTexture name="mecoboy right0013" x="1219" y="587" width="379" height="580" frameX="-1" frameY="0" frameWidth="387" frameHeight="580"/>
+	<SubTexture name="mecoboy right0014" x="1219" y="587" width="379" height="580" frameX="-1" frameY="0" frameWidth="387" frameHeight="580"/>
+	<SubTexture name="mecoboy up0000" x="1598" y="587" width="370" height="597" frameX="-5" frameY="0" frameWidth="380" frameHeight="597"/>
+	<SubTexture name="mecoboy up0001" x="1598" y="587" width="370" height="597" frameX="-5" frameY="0" frameWidth="380" frameHeight="597"/>
+	<SubTexture name="mecoboy up0002" x="0" y="1184" width="380" height="589" frameX="0" frameY="-8" frameWidth="380" frameHeight="597"/>
+	<SubTexture name="mecoboy up0003" x="0" y="1184" width="380" height="589" frameX="0" frameY="-8" frameWidth="380" frameHeight="597"/>
+	<SubTexture name="mecoboy up0004" x="0" y="1184" width="380" height="589" frameX="0" frameY="-8" frameWidth="380" frameHeight="597"/>
+	<SubTexture name="mecoboy up0005" x="0" y="1184" width="380" height="589" frameX="0" frameY="-8" frameWidth="380" frameHeight="597"/>
+	<SubTexture name="mecoboy up0006" x="0" y="1184" width="380" height="589" frameX="0" frameY="-8" frameWidth="380" frameHeight="597"/>
+	<SubTexture name="mecoboy up0007" x="0" y="1184" width="380" height="589" frameX="0" frameY="-8" frameWidth="380" frameHeight="597"/>
+	<SubTexture name="mecoboy up0008" x="0" y="1184" width="380" height="589" frameX="0" frameY="-8" frameWidth="380" frameHeight="597"/>
+	<SubTexture name="mecoboy up0009" x="0" y="1184" width="380" height="589" frameX="0" frameY="-8" frameWidth="380" frameHeight="597"/>
+	<SubTexture name="mecoboy up0010" x="0" y="1184" width="380" height="589" frameX="0" frameY="-8" frameWidth="380" frameHeight="597"/>
+	<SubTexture name="mecoboy up0011" x="0" y="1184" width="380" height="589" frameX="0" frameY="-8" frameWidth="380" frameHeight="597"/>
+	<SubTexture name="mecoboy up0012" x="0" y="1184" width="380" height="589" frameX="0" frameY="-8" frameWidth="380" frameHeight="597"/>
+	<SubTexture name="mecoboy up0013" x="0" y="1184" width="380" height="589" frameX="0" frameY="-8" frameWidth="380" frameHeight="597"/>
+	<SubTexture name="mecoboy up0014" x="0" y="1184" width="380" height="589" frameX="0" frameY="-8" frameWidth="380" frameHeight="597"/>
+</TextureAtlas>
